@@ -16,7 +16,7 @@ YOLOv7
      - :math:`AP_{75}^{val}`
      - Param.
      - FLOPs
-   * - `YOLOv7 <https://github.com/WongKinYiu/YOLO/releases/download/v1.0-alpha/v7.pt>`_
+   * - `YOLOv7 <https://github.com/hihosilvers/YOLO/releases/download/v1.0-alpha/v7.pt>`_
      - 🔧
      - 640
      - **51.4%**
@@ -79,7 +79,7 @@ YOLOv9
      - :math:`AP_{75}^{val}`
      - Param.
      - FLOPs
-   * - `YOLOv9-T <https://github.com/WongKinYiu/YOLO/releases/download/v1.0-alpha/v9-t.pt>`_
+   * - `YOLOv9-T <https://github.com/hihosilvers/YOLO/releases/download/v1.0-alpha/v9-t.pt>`_
      - 🔧
      - 640
      -
@@ -87,7 +87,7 @@ YOLOv9
      -
      -
      -
-   * - `YOLOv9-S <https://github.com/WongKinYiu/YOLO/releases/download/v1.0-alpha/v9-s.pt>`_
+   * - `YOLOv9-S <https://github.com/hihosilvers/YOLO/releases/download/v1.0-alpha/v9-s.pt>`_
      - ✅
      - 640
      - **46.8%**
@@ -95,7 +95,7 @@ YOLOv9
      - **50.7%**
      - **7.1M**
      - **26.4G**
-   * - `YOLOv9-M <https://github.com/WongKinYiu/YOLO/releases/download/v1.0-alpha/v9-m.pt>`_
+   * - `YOLOv9-M <https://github.com/hihosilvers/YOLO/releases/download/v1.0-alpha/v9-m.pt>`_
      - ✅
      - 640
      - **51.4%**
@@ -103,7 +103,7 @@ YOLOv9
      - **56.1%**
      - **20.0M**
      - **76.3G**
-   * - `YOLOv9-C <https://github.com/WongKinYiu/YOLO/releases/download/v1.0-alpha/v9-c.pt>`_
+   * - `YOLOv9-C <https://github.com/hihosilvers/YOLO/releases/download/v1.0-alpha/v9-c.pt>`_
      - ✅
      - 640
      - **53.0%**
@@ -111,7 +111,7 @@ YOLOv9
      - **57.8%**
      - **25.3M**
      - **102.1G**
-   * - `YOLOv9-E <https://github.com/WongKinYiu/YOLO/releases/download/v1.0-alpha/v9-e.pt>`_
+   * - `YOLOv9-E <https://github.com/hihosilvers/YOLO/releases/download/v1.0-alpha/v9-e.pt>`_
      - 🔧
      - 640
      - **55.6%**
